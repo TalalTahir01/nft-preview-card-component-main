@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../.Trash/design"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "nft-preview-card-component-main"
+  }
+}
